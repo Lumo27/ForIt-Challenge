@@ -5,7 +5,7 @@ Este proyecto es una aplicación web construida con React y Vite. Permite visual
 ## Requisitos Previos
 
 Asegúrate de tener instalado lo siguiente en tu máquina:
-- **Vite**: Puedes descargarlo desde [aquí]([(https://vite.dev/)]).
+- **Vite**: Puedes descargarlo desde [aquí](https://vite.dev/).
 - **Node.js**: Puedes descargarlo desde [aquí](https://nodejs.org/).
 
 ## Pasos para Configurar y Probar la Aplicación
