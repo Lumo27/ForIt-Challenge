@@ -47,6 +47,29 @@
   gap: 20px; /* Espacio entre las cartas */
   padding: 20px;
 }
+.user-search {
+  width: 100%; /* Ocupa todo el ancho disponible */
+  margin-bottom: 20px; /* Espacio debajo para separar del contenido */
+  display: flex;
+  justify-content: center; /* Centra el input horizontalmente */
+}
+
+.user-search input {
+  width: 100%; /* El input ocupa todo el ancho de su contenedor */
+  max-width: 600px; /* Máximo ancho del input */
+  padding: 10px; /* Espaciado dentro del input */
+  font-size: 16px; /* Tamaño de la fuente */
+  border: 1px solid #ccc; /* Borde sutil */
+  border-radius: 5px; /* Bordes redondeados */
+  outline: none; /* Quitar el borde de enfoque por defecto */
+  box-sizing: border-box; /* Incluye padding y borde en el ancho total */
+}
+
+.user-search input:focus {
+  border-color: #007bff; /* Color de borde cuando el input tiene el foco */
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Sombra suave */
+}
+
 
 .card {
   border: 1px solid #ddd;
