@@ -40,3 +40,48 @@
 .read-the-docs {
   color: #888;
 }
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; /* Espacio entre las cartas */
+  padding: 20px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  padding: 15px;
+  width: 250px;
+  background-color: #186ab7;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.card-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #ffffff;
+}
+
+.card-header span {
+  display: block;
+  color: #000000;
+}
+
+.card-body {
+  margin-top: 10px;
+}
+
+.card-body p {
+  margin: 5px 0;
+}
+
+.card-body strong {
+  color: #000000;
+}
+
