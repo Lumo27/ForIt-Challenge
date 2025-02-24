@@ -15,7 +15,7 @@ Asegúrate de tener instalado lo siguiente en tu máquina:
    Clona el repositorio en tu máquina utilizando Git:
 
    ```bash
-   git clone https://github.com/usuario/nombre-del-repositorio.git
+   git clone https://github.com/Lumo27/ForIt-Challenge.git
    ```
 
 2. **Instalar Dependencias**
